@@ -1,27 +1,27 @@
-# package_name
+# hello_world_dio_2025
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+Description.
+The package hello_world_dio_2025 is used to: - -
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install hello_world_dio_2025
 
 ```bash
-pip install package_name
+pip install hello_world_dio_2025
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from hello_world import hello_world
+hello_world.show()
 ```
 
 ## Author
-My_name
+
+Daniel
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
